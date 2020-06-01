@@ -1,0 +1,5 @@
+.idea
+target
+serenity.properties
+ibm-ndlep-java-test.iml
+*.env
